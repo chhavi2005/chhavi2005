@@ -21,4 +21,4 @@
 - [Email](mailto:chhavigajnani5@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/chhavigajnani/)
 - [Instagram](https://www.instagram.com/thechhavigajnani)
-- [LeetCode](https://leetcode.com/chhavigajnani5/)
+- [LeetCode](https://leetcode.com/thechhavigajnani/)
