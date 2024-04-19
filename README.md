@@ -12,7 +12,6 @@
 ### Tech Stack
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-4285F4?style=flat-square&logo=html5&logoColor=white)
 
