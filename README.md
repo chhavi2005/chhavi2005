@@ -3,7 +3,7 @@
 - 👀 I’m interested in Learning.
 - 🌱 I’m currently learning DSA as well as Web Development.
 - 💞️ I’m looking forward to learn a lot of new technologies.
-- 📫 How to reach me: [chhavigajnani5@gmail.com](mailto:chhavigajnani5@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chhavigajnani/) | [Instagram](https://www.instagram.com/thechhavigajnani)
+- 📫 How to reach me: [chhavigajnani5@gmail.com](mailto:chhavigajnani5@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chhavigajnani/) | [Instagram](https://www.instagram.com/chhavigajnani)
 - 😄 Pronouns: She/Her
 - ⚡ Technologies I have worked on are Django, Machine Learning, Docker, Java, Web Dev...much more to come.
 
