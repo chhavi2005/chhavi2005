@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Chhavi Gajnani.
 
-🚀 MCA Student
-💻 MERN Stack Learner
-🧠 DSA Enthusiast
-🇯🇵 JLPT N5 | N4 in Progress
+- 🚀 MCA Student
+- 💻 MERN Stack Learner
+- 🧠 DSA Enthusiast
+- 🇯🇵 JLPT N5 | N4 in Progress
 - 💞️ I’m looking forward to learn a lot of new technologies.
 - 📫 How to reach me: [chhavigajnani5@gmail.com](mailto:chhavigajnani5@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chhavigajnani/) | [Instagram](https://www.instagram.com/thechhavigajnani)
 
